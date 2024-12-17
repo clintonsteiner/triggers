@@ -45,7 +45,7 @@ This project extends Kubernetes (aka `k8s`) with Custom Resource Definitions
 - [Tekton Pipelines README](https://github.com/tektoncd/pipeline/blob/master/docs/README.md) -
   Some of the terms here may make more sense!
 - Install via
-  [official installation docs](https://github.com/tektoncd/pipeline/blob/master/docs/install.md)
+  [official installation docs](https://tekton.dev/docs/getting-started)
   or continue through [getting started for development](#getting-started)
 - [Tekton Pipeline "Hello World" tutorial](https://github.com/tektoncd/pipeline/blob/master/docs/tutorial.md) -
   Define `Tasks`, `Pipelines`, and `PipelineResources`, see what happens when
